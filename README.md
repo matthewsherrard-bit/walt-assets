@@ -12,6 +12,7 @@ All headshots are 800x800 JPEG, EXIF stripped, sRGB. Filenames are `firstname-la
 | Name | File | URL |
 |---|---|---|
 | Gordon Kedslie | `headshots/gordon-kedslie.jpg` | https://raw.githubusercontent.com/matthewsherrard-bit/walt-assets/main/headshots/gordon-kedslie.jpg |
+| Morgan Atkins | `headshots/morgan-atkins.jpg` | https://raw.githubusercontent.com/matthewsherrard-bit/walt-assets/main/headshots/morgan-atkins.jpg |
 | Sean Sherrard | `headshots/sean-sherrard.jpg` | https://raw.githubusercontent.com/matthewsherrard-bit/walt-assets/main/headshots/sean-sherrard.jpg |
 | Stewart Smith | `headshots/stewart-smith.jpg` | https://raw.githubusercontent.com/matthewsherrard-bit/walt-assets/main/headshots/stewart-smith.jpg |
 | Ted Everett | `headshots/ted-everett.jpg` | https://raw.githubusercontent.com/matthewsherrard-bit/walt-assets/main/headshots/ted-everett.jpg |
